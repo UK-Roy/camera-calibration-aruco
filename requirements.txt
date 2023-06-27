@@ -1,0 +1,6 @@
+argparse
+tqdm
+PyYAML
+requests
+opencv-python
+opencv-contrib-python

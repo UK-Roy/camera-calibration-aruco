@@ -20,7 +20,7 @@ msg = f"To run this code you can pass two arguments: 1) The url of your camera(M
 parser = argparse.ArgumentParser(description = msg)
  
 # Adding optional argument
-parser.add_argument("-u", "--url", help = "Input url of your IP camera\n i.e. http://192.168.0.114:8080", required = True)
+parser.add_argument("-u", "--url", help = "Input url of your IP camera\n i.e. http://192.168.0.114:8080", required = False)
 parser.add_argument("--online", help = "Do  you want to calibrate live or you have images folder for calibration", required = True, action=argparse.BooleanOptionalAction, default=True)
 parser.add_argument("-d", "--dir", help = "Directories where your camera images will be saved", required = False, default = current_working_directory)
 parser.add_argument("-y", "--yaml", help = "Camera matrix yaml file directory", required = False, default = current_working_directory)
