@@ -66,6 +66,17 @@ python calibration_aruco.py -dir "path/to/save-image-directory" -y "path/to/outp
 You will see the camera matrix in the terminal and also get the yaml file at the desired location
 
 
+## Add acknowledgments
+
+### Ab abakisita
+
+    https://github.com/abakisita/camera_calibration.git
+
+### Asadullah Dal
+    
+    https://github.com/Asadullah-Dal17/Mobile-camera-for-Opencv-Python-.git
+
+
 ## Citation
 
 Cite as
