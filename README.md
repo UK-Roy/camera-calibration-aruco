@@ -71,7 +71,7 @@ You will see the camera matrix in the terminal and also get the yaml file at the
 Cite as
 
 ```bib
-@article{roy2023gym,
+@article{roy2023calibration,
   title        = {{Roy's-CALIBRATION: An Open-Source RGB camera calibration package}},
   author       = {Utsha Kumar Roy},
   year         = 2023,
