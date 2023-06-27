@@ -53,6 +53,7 @@ Aim your camera to the board and capture image by pressing `c` in the keyboard
 ### Step 6
 You will see the camera matrix in the terminal and also get the yaml file at the desired location
 ![](images/res.png)
+![](images/yaml.png)
 
 ## Offline Camera Calibration (You have the directory of images)
 
